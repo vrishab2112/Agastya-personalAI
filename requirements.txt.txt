@@ -1,4 +1,4 @@
-PyAudio-0.2.11-cp38-cp38-win_amd64
+
 time
 random
 pygame
@@ -6,7 +6,7 @@ windows-curses
 numpy
 Pyaudio
 pypiwin32
-PyAudio-0.2.11-cp37-cp37m-win_amd64
+
 speechRecognition
 pyttsx3
 Datetime
