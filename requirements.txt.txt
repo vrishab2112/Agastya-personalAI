@@ -1,6 +1,7 @@
 
-time
-random
+
+times
+random2
 pygame
 windows-curses
 numpy
