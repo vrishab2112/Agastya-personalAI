@@ -7,6 +7,7 @@
 2. Copy the file location and open CMD prompt
 3. Make sure that you have installed pip & python
 4. Code(in CMD):
+
   a) Cd (file location)
 
   b) pip install -r requirements.txt.txt
