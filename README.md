@@ -2,7 +2,7 @@
  Your errand runner. Your encyclopedia. Your daily conversation maker. Meet AGASTYA - Your Personal AI.
 
 # How To Download
-   #For Windows
+#For Windows
 1. Download the zip file and unzip it in file explorer
 2. Copy the file location and open CMD prompt
 3. Make sure that you have installed pip & python
