@@ -21,7 +21,9 @@
       VERY IMPORTANT STEP.
   
   d) python main.py
+
 5. Your program is installed and ready to use
+
 6. If all these steps go right, then from next time 
 you can simply copy paste your file location and code
 "python main.py" to use the program.
