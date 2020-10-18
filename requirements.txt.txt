@@ -5,7 +5,7 @@ random2
 pygame
 windows-curses
 numpy
-Pyaudio
+
 pypiwin32
 
 speechRecognition
