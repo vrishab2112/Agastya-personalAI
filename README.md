@@ -40,9 +40,11 @@ A. git clone https://github.com/vrishab2112/Agastya-personalAI
 
 B. Cd Agastya-personalAI
 
-C. pip install -r requirements.txt.txt
+C. apt-get install python-dev libsdl-image1.2-dev libsdl-mixer1.2-dev libsdl-ttf2.0-dev libsdl1.2-dev libsmpeg-dev python-numpy subversion libportmidi-dev ffmpeg libswscale-dev libavformat-dev libavcodec-dev libfreetype6-dev
 
-D. pip install PyAudio-0.2.11-cp38-cp38-win_amd64.whl
+D. pip install -r requirements.txt.txt
+
+E. pip install PyAudio-0.2.11-cp38-cp38-win_amd64.whl
      (For python version 3.8 and 64 bit )
 
      Or pip install PyAudio‑0.2.11‑cp37‑cp37m‑win_amd64.whl
