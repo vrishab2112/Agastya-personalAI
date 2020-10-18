@@ -44,16 +44,11 @@ C. apt-get install python-dev libsdl-image1.2-dev libsdl-mixer1.2-dev libsdl-ttf
 
 D. pip install -r requirements.txt.txt
 
-E. pip install PyAudio-0.2.11-cp38-cp38-win_amd64.whl
-     (For python version 3.8 and 64 bit )
-
-     Or pip install PyAudio‑0.2.11‑cp37‑cp37m‑win_amd64.whl
-     (For python version 3.7 and 64 bit)
-
-     (You can also look for different versions of Pyadio at https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio) 
-      
-              VERY IMPORTANT STEP.
-
+E. apt-get install python-all-dev  
+   apt-get install portaudio19-dev
+   pip install pyaudio
+   pip install comtypes
+   
 D. python main.py
 
 Program is ready to use. 
