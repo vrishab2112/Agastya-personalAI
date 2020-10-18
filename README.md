@@ -7,10 +7,10 @@
 2. Copy the file location and open CMD prompt
 3. Make sure that you have installed pip & python
 4. Code(in CMD):
-  . Cd (file location)
-  . pip install -r requirements.txt.txt
-  . pip install 
-  . python main.py
+  a) Cd (file location)
+  b) pip install -r requirements.txt.txt
+  c) pip install 
+  d) python main.py
 5. Your program is installed and ready to use
 6. If all these steps go right, then from next time 
 You can simply copy paste your file location and code
