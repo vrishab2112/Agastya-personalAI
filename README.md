@@ -19,7 +19,8 @@
      (For python version 3.7 and 64 bit)
 
      (You can also look for different versions of Pyadio at https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio) 
-      VERY IMPORTANT STEP.
+           
+             VERY IMPORTANT STEP.
   
   d) python main.py
 
@@ -30,3 +31,30 @@ you can simply copy paste your file location and code
 "python main.py" to use the program.
           
              HOPE YOU ENJOY!
+
+
+# For Linux
+Code:
+
+A. git clone https://github.com/vrishab2112/Agastya-personalAI
+
+B. Cd Agastya-personalAI
+
+C. pip install -r requirements.txt.txt
+
+D. pip install PyAudio-0.2.11-cp38-cp38-win_amd64.whl
+     (For python version 3.8 and 64 bit )
+
+     Or pip install PyAudio‑0.2.11‑cp37‑cp37m‑win_amd64.whl
+     (For python version 3.7 and 64 bit)
+
+     (You can also look for different versions of Pyadio at https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio) 
+      
+              VERY IMPORTANT STEP.
+
+D. python main.py
+
+Program is ready to use. 
+         
+               HOPE YOU ENJOY!
+
